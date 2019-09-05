@@ -1,3 +1,11 @@
-1. Installed Oracle VM Virtualbox
-2. Starting learning how to use the terminal 
-But I spent too much time on installing the software, so I didn't really use the time efficiently this time.
+Today, we started Topic 3.1 with types or network.
+Here is the link for networks classified by size 
+https://www.google.com/url?q=https://www.belden.com/blog/smart-building/network-types&sa=D&ust=1567651331022000&usg=AFQjCNEw36fDYuTI_kBv7Eh6qN3XFC7T3Q
+Here is the link for networks classified by topology
+https://www.swissns.ch/site/2017/06/the-various-types-of-network-topologies/
+
+Also, we learned the different between public IP adress and private IP adress.
+We learned who IPv4 is formated.
+
+We learned how to use terminal with ip adress to conect to Raspberry within the WLAN.
+We learned how to creat a file and creat a program in Raspberry.
