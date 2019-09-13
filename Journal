@@ -1,11 +1,17 @@
-Today, we started Topic 3.1 with types or network.
-Here is the link for networks classified by size 
-https://www.google.com/url?q=https://www.belden.com/blog/smart-building/network-types&sa=D&ust=1567651331022000&usg=AFQjCNEw36fDYuTI_kBv7Eh6qN3XFC7T3Q
-Here is the link for networks classified by topology
-https://www.swissns.ch/site/2017/06/the-various-types-of-network-topologies/
-
-Also, we learned the different between public IP adress and private IP adress.
-We learned who IPv4 is formated.
-
-We learned how to use terminal with ip adress to conect to Raspberry within the WLAN.
-We learned how to creat a file and creat a program in Raspberry.
+Sept 10 Tues
+Today we create our first website with WebStorm using pug coverting to html and coffeescript.
+doctype html
+head
+    link(rel='stylesheet' href='mystyle.css')
+    title My first styled page
+    script(type='text/javascript' src='interactive.js')
+ul.navbar
+    li
+        a(href='index.html') Home page
+    li
+        a(href='town.html') My town
+    li
+        a(href='links.html') Links
+h1 My first styled page
+p
+    | Welcome to my styled page!
