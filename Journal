@@ -1,17 +1,3 @@
-Sept 10 Tues
-Today we create our first website with WebStorm using pug coverting to html and coffeescript.
-doctype html
-head
-    link(rel='stylesheet' href='mystyle.css')
-    title My first styled page
-    script(type='text/javascript' src='interactive.js')
-ul.navbar
-    li
-        a(href='index.html') Home page
-    li
-        a(href='town.html') My town
-    li
-        a(href='links.html') Links
-h1 My first styled page
-p
-    | Welcome to my styled page!
+Sept 13 Fri
+We learned about how vpn works
+And we learned about how vpn makes connection private
