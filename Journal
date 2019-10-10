@@ -1,29 +1,3 @@
-'code for bonus point'
-import numpy as np
-a = np.array([21, 33, 26, 39, 28, 32.5, 18.5, 27, 31.5, 29, 26.5, 31.5, 24, 35.5, 22.5, 25, 25.5, 19])
-a.sort()
-print(a)
-if len(a) % 2 == 0:
-    temp = len(a)*0.5
-    firsteven = []
-    firsteven.extend(a[:int(temp)])
-    secondeven = []
-    secondeven.extend(a[int(temp):])
-    q1_a = np.median(firsteven)
-    q3_a = np.median(secondeven)
-    iqr_a = q3_a - q1_a
-    med = np.median(a)
-    mea = np.mean(a)
-    print("mean=",mea,"median=", med,"Q1=",q1_a,"Q3=",q3_a,"IQR=", iqr_a)
-else:
-    temp = len(a)*0.5 - 0.5
-    firstodd = []
-    firstodd.extend(a[:int(temp)])
-    secondodd = []
-    secondodd.extend(a[int(temp+1):])
-    q1_a = np.median(firstodd)
-    q3_a = np.median(secondodd)
-    iqr_a = q3_a - q1_a
-    med = np.median(a)
-    mea = np.mean(a)
-    print("mean=",mea,"median=", med,"Q1=",q1_a,"Q3=",q3_a,"IQR=", iqr_a)
+October 10 Thu
+Today we watched a cartoon, the magic school, about network.
+I also worked on my IA.
